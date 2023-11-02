@@ -1,0 +1,40 @@
+h1 {
+    color: fuchsia;
+}
+body {
+    background-color: blue;
+}
+.txtgreen {
+    color: white;
+    font-style: italic;
+}
+.flashbang {
+    background-color: white;
+    overflow: hidden;
+}
+.txtjumpscare {
+    font-weight: bolder;
+    font-size: 250px;
+    margin-top: 0px; 
+}
+.whitewoman { 
+    float: right;    
+}
+.whitewoman img { 
+    height: 550px;
+    width: 800px;
+}
+.arrow img { 
+    height: 100px;
+    width: 1200px;
+    transform: rotate(9deg);
+    position: absolute;
+}
+.imgfscr img { 
+    height: 750px;
+    width: 2000px;
+}
+.fiople { 
+    overflow: hidden;
+    margin-left: 0px;
+}
